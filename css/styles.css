@@ -11,6 +11,8 @@
   --theertyColor400: #495057;
   --theertyColor500: #343a40;
 
+  
+
   --font: "Inter", sans-serif;
   --font-size: 1;
 }
@@ -31,8 +33,14 @@ body {
   width: 100%;
 }
 html {
-  height:fit-content;
+  height: fit-content;
   font-size: calc(var(--font-size) * 1rem);
+}
+
+.container_body{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 img {
@@ -231,7 +239,7 @@ input[type="checkbox"]:checked + label {
 }
 
 .button:disabled {
-  background-color: var(--secundaryColor);
+  background-color: var(--primaryColorLight);
   border: 2px solid --primaryColor;
   color: var(--primaryColor);
   border: 1px solid var(--primaryColor);
@@ -265,7 +273,7 @@ input[type="checkbox"]:checked + label {
 }
 
 .container__right__result {
-  margin: 15px;  
+    
   width: 100%;
   padding: 1.5rem;
   height: auto;  
@@ -318,7 +326,7 @@ input[type="checkbox"]:checked + label {
   }
   .logo__container {    
     justify-content: center;
-    margin: 0;    
+    margin: 10px;    
   }
 
   .nav__seccion {
