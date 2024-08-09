@@ -96,15 +96,22 @@ async function accionBoton(accion){
 
         if(accion=='encriptar'){
           // llama funcion para encriptar el mensaje y acciones en botones encriptar y desencriptar
-            textoEncriptado = encriptar(cadena);  
-            document.getElementById('encriptar').setAttribute('disabled','true');; 
-            document.getElementById('desencriptar').removeAttribute('disabled');
+            textoEncriptado = encriptar(cadena);             
+            if(document.getElementById('response').innerHTML!=""){
+              document.getElementById('desencriptar').removeAttribute('disabled');
+            }else{
+              document.getElementById('desencriptar').setAttribute('disabled','true');
+            }
                       
         }else if(accion=='desencriptar'){
           // llama funcion para desencriptar el mensaje y acciones en botones encriptar y desencriptar
             textoEncriptado = desencriptar( cadena);
-            document.getElementById('desencriptar').setAttribute('disabled','true');; 
-            document.getElementById('encriptar').removeAttribute('disabled');                        
+            if(document.getElementById('response').innerHTML!=""){
+              document.getElementById('desencriptar').removeAttribute('disabled');
+            }else{
+              document.getElementById('desencriptar').setAttribute('disabled','true');
+            }
+                                             
         }
        
        siresponse();
@@ -121,7 +128,7 @@ function noresponse() {
   
   document.getElementById('cajaNoResponse').removeAttribute('hidden');
   document.getElementById('cajaResponse').setAttribute('hidden','true');
-  document.getElementById('desencriptar').setAttribute('disabled','true');; 
+  document.getElementById('desencriptar').setAttribute('disabled','true');
   document.getElementById('encriptar').removeAttribute('disabled');
 
 }
