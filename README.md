@@ -1,4 +1,4 @@
-# Encriptador y Desencriptador: ¡Codifica tus mensajes al instante! [![license](https://img.shields.io/badge/license-OpenSource-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Code](https://img.shields.io/badge/FilesCode-GitHub-Black.svg)](https://github.com/jissykakin/encriptadorJsByJissy.git) 
+# Encriptador y Desencriptador: ¡Codifica tus mensajes al instante! [![license](https://img.shields.io/badge/license-OpenSource-blue.svg)][![Code](https://img.shields.io/badge/FilesCode-GitHub-Black.svg)](https://github.com/jissykakin/encriptadorJsByJissy.git) 
 
 ¿Quieres agregar un toque de misterio a tus mensajes? Nuestro encriptador te permite transformar cualquier texto en un código secreto de forma fácil y divertida?
 Este proyecto web te permite cifrar tus mensajes de texto con tres niveles de encriptación, podrás personalizar la protección de tus comunicaciones.
@@ -88,7 +88,7 @@ git clone https://github.com/jissykakin/encriptadorJsByJissy.git
 ¡Comienza a encriptar tus mensajes hoy mismo!
 
 > [!NOTE]
-> Tambien puedes ir al enlace de GitHud Pages donde podrás utilizarlo y compartilo con tus amigos [Official Site](https://.github.io//).
+> Tambien puedes ir al enlace de GitHud Pages donde podrás utilizarlo y compartilo con tus amigos [Official Site EncriptadorJS](https://jissykakin.github.io/encriptadorJsByJissy/).
 
 
 ## Contribuciones:
