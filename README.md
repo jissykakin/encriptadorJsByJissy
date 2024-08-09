@@ -1,4 +1,4 @@
-# Encriptador y Desencriptador: ¡Codifica tus mensajes al instante! [![license](https://img.shields.io/badge/lICENSE-OPENSOURCE-blue.svg)][![Code](https://img.shields.io/badge/CODEFILE-GITHUB-black.svg)](https://github.com/jissykakin/encriptadorJsByJissy)[https://img.shields.io/badge/STATUS-EN%20VALIDACION-green][https://img.shields.io/badge/VERSION-1.0.0-blue]
+# Encriptador y Desencriptador: ¡Codifica tus mensajes al instante!  ![License](https://img.shields.io/badge/License-OpenSource-blue.svg) [![Code](https://img.shields.io/badge/FilesCode-GitHub-Black.svg)](https://github.com/jissykakin/encriptadorJsByJissy) ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![Status](https://img.shields.io/badge/Status-Under%20Review-green.svg)
 
 ¿Quieres agregar un toque de misterio a tus mensajes? Nuestro encriptador te permite transformar cualquier texto en un código secreto de forma fácil y divertida?
 Este proyecto web te permite cifrar tus mensajes de texto con tres niveles de encriptación, podrás personalizar la protección de tus comunicaciones.
