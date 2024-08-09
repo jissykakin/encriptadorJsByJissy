@@ -1,7 +1,8 @@
-# Encriptador y Desencriptador: ¡Codifica tus mensajes al instante! [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) 
+# Encriptador y Desencriptador: ¡Codifica tus mensajes al instante! [![license](https://img.shields.io/badge/license-OpenSource-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Code](https://img.shields.io/badge/FilesCode-GitHub-Black.svg)](https://github.com/jissykakin/encriptadorJsByJissy.git) 
 
 ¿Quieres agregar un toque de misterio a tus mensajes? Nuestro encriptador te permite transformar cualquier texto en un código secreto de forma fácil y divertida?
 Este proyecto web te permite cifrar tus mensajes de texto con tres niveles de encriptación, podrás personalizar la protección de tus comunicaciones.
+
 
 ![image](https://github.com/user-attachments/assets/95b61690-6fb3-4333-9f21-518a314cf6ce)
 
@@ -10,7 +11,7 @@ Este proyecto web te permite cifrar tus mensajes de texto con tres niveles de en
 
 - **Tres niveles de encriptación**: Elige entre opciones simples o más complejas para personalizar tu experiencia.
 - **Validación de entrada**: Asegúrate de que solo se ingresen los caracteres permitidos para cada nivel.
-- **Seleccion de idiomas**: Te permite cambiar la aplicacion a dos idiomas español e inglés.
+- **Seleccion de idiomas**: Te permite traducir la aplicacion a dos idiomas español e inglés.
 - **Lectura en voz alta**: El aplicativo permite leer los elementos de texto que haya en la aplicacion para una experiencia más inmersiva.
 - **Aumento del tamaño del texto**: Personaliza el tamaño de la fuente para una mejor visualización.
 - **Copiar al portapapeles**: Copia fácilmente tu texto cifrado para compartirlo o guardarlo.
@@ -61,7 +62,7 @@ Este proyecto web te permite cifrar tus mensajes de texto con tres niveles de en
 - **JavaScript**: La columna vertebral de la aplicación, encargada de la lógica de encriptación, desencriptación y otras funcionalidades.
 - **HTML**: Estructura la interfaz de usuario, creando los elementos necesarios para la interacción.
 - **CSS**: Estiliza la aplicación, dándole un aspecto visual atractivo y moderno.
-Google Fonts: Proporciona las fuentes e iconos utilizados en la interfaz.
+- **Google Fonts**: Proporciona las fuentes e iconos utilizados en la interfaz.
 
 ## ¿Por qué usar nuestro encriptador?
 
@@ -77,7 +78,7 @@ Google Fonts: Proporciona las fuentes e iconos utilizados en la interfaz.
 1. Clona este repositorio:
 
 ```sh
-git clone https://github.com/nasa/openmct.git
+git clone https://github.com/jissykakin/encriptadorJsByJissy.git
 ```
 2. Ejecuta el archivo index.html en tu navegador.
 
@@ -90,12 +91,21 @@ git clone https://github.com/nasa/openmct.git
 > Tambien puedes ir al enlace de GitHud Pages donde podrás utilizarlo y compartilo con tus amigos [Official Site](https://.github.io//).
 
 
-Contribuciones:
+## Contribuciones:
 
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna sugerencia, por favor, abre un issue en este repositorio.
 
-Licencia:
+## Licencia:
 
-Este proyecto está bajo la licencia [Especifica la licencia, por ejemplo, MIT].
+Este proyecto está bajo la licencia OpenSource, Creado por Jissy Merlano [@jissykakin](https://github.com/jissykakin)
 
 ¡Diviértete encriptando!
+
+## Contact
+
+Te puedes comunicar conmigo a través de los siguientes canales
+
+- [Discord](https://discord.com):
+  - `@jissy.merlano` Nombre de Usuario
+- [@ing-jissy-merlano](www.linkedin.com/in/ing-jissy-merlano) on LinkedIn
+- [GitHub][@jissykakin](https://github.com/jissykakin)
