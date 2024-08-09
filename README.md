@@ -88,7 +88,7 @@ git clone https://github.com/jissykakin/encriptadorJsByJissy.git
 ¡Comienza a encriptar tus mensajes hoy mismo!
 
 > [!NOTE]
-> Tambien puedes ir al enlace de GitHud Pages donde podrás utilizarlo y compartilo con tus amigos [Official Site EncriptadorJS](https://jissykakin.github.io/encriptadorJsByJissy/).
+> Tambien puedes ir al enlace de GitHub Pages donde podrás utilizarlo y compartilo con tus amigos [Official Site EncriptadorJS](https://jissykakin.github.io/encriptadorJsByJissy/).
 
 
 ## Contribuciones:
