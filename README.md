@@ -29,8 +29,8 @@ Este proyecto web te permite cifrar tus mensajes de texto con tres niveles de en
    | Nivel          | Caracteres permitidos                    |  Algoritmo                   | Seguridad         |
    |----------------|------------------------------------------|------------------------------|-------------------|
    | _Nivel 1 o Basico_ | Únicamente letras minúsculas sin acentos (a-z)  | Se realiza un desplazamiento sencillo de las vocales. Por ejemplo, la "a" podría convertirse en "ai".| Muy Baja |
-   | _Nivel 2 o Medio Bajo_|  Letras minúsculas sin acentos (a-z) y números (0-9)  |  desplazamiento de vocales, se aplica una sustitución básica a las consonantes y números. Por ejemplo, la "b" podría convertirse en "w4q", y el "1" en "f37".| Medio Baja |
-   | _Nivel 3 o Medio Alto_|   Letras mayúsculas y minúsculas con acentos, números (0-9)  |  se aplica una sustitución básica a las letras minusculas, mayusculas y con acentos y números. Por ejemplo, la "B" podría convertirse en "W4Q", y el "á" en "6um".| Medio Alta |
+   | _Nivel 2 o Medio Bajo_|  Letras minúsculas sin acentos (a-z) y números (0-9)  |  Desplazamiento de vocales y una sustitución básica a las consonantes. Por ejemplo, la "b" podría convertirse en "w4q".| Medio Baja |
+   | _Nivel 3 o Medio Alto_|   Letras mayúsculas y minúsculas con acentos, números (0-9)  |  Se aplica una sustitución básica a las letras minúsculas, mayúsculas, vocales con acentos y números. Por ejemplo, la "B" podría convertirse en "W4Q", y el "á" en "6um".| Medio Alta |
 
    
    ![image](https://github.com/user-attachments/assets/c356f331-539b-4adf-a3c1-a22957ed35ea)
